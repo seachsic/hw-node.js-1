@@ -1,14 +1,18 @@
 # First homework!
 
-
 ## Contacts List
-![Contacts List](./assets/screenshot_1.png)
+
+![Contacts list] (https://ibb.co/RBystrQ
+)
 
 ## Get contact by id
-![Home page](./assets/screenshot_2.png)
 
-## Add contact (Був маленький трабл з ID)
-![Home page](./assets/screenshot_3.png)
+![Home page](https://ibb.co/QjTxxbj)
+
+## Add contact
+
+![Home page](https://ibb.co/1GSx0Xq)
 
 ## Remove contact
-![Home page](./assets/screenshot_4.png)
+
+![Home page](https://ibb.co/FYT7djc)
